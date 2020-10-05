@@ -20,7 +20,7 @@
     <string name="say_hi">Say Hi</string>
     <string name="greeting_message">Hello %s!</string>
 
-    <string name="weather_header">Here is the cool weather forecast:</string>
+    <string name="weather_header">Here is the pretty cool weather forecast:</string>
     <string name="weather">Weather</string>
     <string name="weather_loading">Loading weather forecast…</string>
     <string name="weather_iconurl_format">http://openweathermap.org/img/wn/%s@2x.png</string>
